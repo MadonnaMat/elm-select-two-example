@@ -7,7 +7,7 @@
   "exposed-modules": [],
   "elm-version": "0.19.0 <= v < 0.20.0",
   "dependencies": {
-    "MadonnaMat/elm-select-two": "6.0.0 <= v < 7.0.0",
+    "MadonnaMat/elm-select-two": "6.0.1 <= v < 7.0.0",
     "elm/browser": "1.0.1 <= v < 2.0.0",
     "elm/core": "1.0.0 <= v < 2.0.0",
     "elm/html": "1.0.0 <= v < 2.0.0",
